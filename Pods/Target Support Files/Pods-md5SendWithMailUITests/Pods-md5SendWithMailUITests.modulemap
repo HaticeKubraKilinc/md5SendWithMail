@@ -1,0 +1,6 @@
+framework module Pods_md5SendWithMailUITests {
+  umbrella header "Pods-md5SendWithMailUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
